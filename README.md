@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center"> Business Analyst and Technology Consultant turned Software Engineer - Dividing into the world of Mobile application development.</h3>
+<h3 align="center"> Business Analyst and Technology Consultant turned Software Engineer - Diving into the world of Mobile application development.</h3>
 
 - 🔭 I’m currently working on [RecordShopAPIProject](https://github.com/vinaysp/RecordShopAPIProject)
 
