@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
 <h3 align="center"> Business Analyst and Technology Consultant turned Software Engineer - Diving into the world of Mobile application development.</h3>
 
-- 🔭 I’m currently working on [RecordShopAPIProject](https://github.com/vinaysp/RecordShopAPIProject) that can be used to manage stock of albums for a record shop.
-- Refactoring the project to implement data transfer objects and a third-party api for album cover art with the goal to make it easier to consume
-- backend data to my frontend application.
+- 🔭 I’m currently working on [RecordShopAPIProject](https://github.com/vinaysp/RecordShopAPIProject) that can be used to manage stock of albums for a record shop. Refactoring the project to implement data transfer objects and a third-party api for album cover art with the goal to make it easier to consume backend data to my frontend application.
 
 - 👯 I’m looking to collaborate on **java or Android application projects**
 
