@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vinay</h1>
-<h3 align="center"> Business Analyst and Technology Consultant turned Software Engineer - Diving into the world of Mobile application development.</h3>
+<h3 align="center"> Business Analyst and Technology Consultant diving into the world of software development.</h3>
 
 - 🔭 I’m currently working on [RecordShopAPIProject](https://github.com/vinaysp/RecordShopAPIProject) that can be used to manage stock of albums for a record shop. I have refactored the project to implement data transfer objects and a third-party spotify web api for album cover art. These improvements will make it easier to consume backend data to my frontend application.
 
